@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Code](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Code](https://github.com/phangtono/order-summary-card)
+- Live Site URL: [Live Site](https://calm-malabi-40af30.netlify.app/)
 
 ## My process
 
@@ -41,7 +41,7 @@ Users should be able to:
 
 ### What I learned
 
-saya menggunakan @media query di dalam css body.
+I use @media query inside CSS body.
 
 ```css
 body{
