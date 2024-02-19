@@ -69,11 +69,11 @@ body{
 }
 
 .card{
-    max-width: 20rem;
+    max-width: 28rem;
     background-color: var(--clr-neutral-white);
     border-radius: var(--gap);
     display: grid;
-    gap: .5rem;
+    gap: var(--gap);
 }
 
 .card-contain{
