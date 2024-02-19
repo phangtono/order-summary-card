@@ -94,6 +94,9 @@ body{
 
 .card__description{
     line-height: 1.5;
+    word-spacing: 1px;
+    width: 80%;
+    margin-inline: auto;
 }
 
 .card__items{
@@ -102,7 +105,7 @@ body{
     align-items: center;
 
     background-color: var(--clr-neutral-very-pale-blue);
-    padding: .75rem;
+    padding: 1rem;
 
     font-size: var(--fs-300);
     border-radius: .75rem;
@@ -125,8 +128,8 @@ body{
 }
 
 .card .button {
-    padding: .75rem;
-    border-radius: .75rem;
+    padding: 1rem;
+    border-radius: 1rem;
     border: none;
     font-size: var(--fs-300);
     font-weight: var(--fw-700);
